@@ -1,4 +1,4 @@
-package calculator;
+package calculator.domain;
 
 import java.util.ArrayList;
 import java.util.Arrays;
@@ -6,9 +6,6 @@ import java.util.Arrays;
 import org.assertj.core.api.Assertions;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
-
-import calculator.domain.Expression;
-import calculator.domain.Operand;
 
 /**
  *

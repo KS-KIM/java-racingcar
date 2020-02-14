@@ -1,4 +1,4 @@
-package racingcar;
+package racingcar.domain;
 
 import java.util.ArrayList;
 import java.util.Arrays;
@@ -8,12 +8,6 @@ import org.assertj.core.api.Assertions;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
-
-import racingcar.domain.Car;
-import racingcar.domain.Cars;
-import racingcar.domain.Name;
-import racingcar.domain.Position;
-import racingcar.domain.WinningRule;
 
 /**
  * 승리 결정 테스트 클래스
